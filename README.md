@@ -1,4 +1,6 @@
-# 2024 - Assignment 5 - University-of-Adelaide-Bx-Masters / BIOTECH-7005-BIOINF-3000
+# 2025 - Assignment 6 - University-of-Adelaide-Bx-Masters / BIOTECH-7005-BIOINF-3000
+
+See [Assignment 6 page](https://university-of-adelaide-bx-masters.github.io/BIOTECH-7005-BIOINF-3000/Assignments/Assignment6.html)
 
 ## Branches
 
