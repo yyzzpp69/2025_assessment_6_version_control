@@ -6,7 +6,7 @@
 
 ### CHANGED
 - Removed all occurrences of XXXXXXX in `data/a1911607.txt`. [#22](https://github.com/davmlaw/2025_assessment_6_version_control/issues/22)
-
+- Corrected capitalization errors in `data/a1911607.txt`. [#23](https://github.com/davmlaw/2025_assessment_6_version_control/issues/23)
 
 ## [0.1.1] - 2025-10-26
 
