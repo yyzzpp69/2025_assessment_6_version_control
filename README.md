@@ -2,6 +2,10 @@
 
 See [Assignment 6 page](https://university-of-adelaide-bx-masters.github.io/BIOTECH-7005-BIOINF-3000/Assignments/Assignment6.html)
 
+## Contact details
+
+david.lawrence@sa.gov.au
+
 ## Branches
 
 This repository has 2 branches:
